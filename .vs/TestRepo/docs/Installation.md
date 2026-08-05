@@ -20,7 +20,7 @@ Before installing, make sure your computer meets the following requirements:
 
 ## Installation Steps
 
-1. Download the installer from the company portal in it.
+1. Download the installer from the company portal.
 2. Double-click the installer.
 3. Accept the license agreement.
 4. Select the installation folder.
