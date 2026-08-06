@@ -3,7 +3,6 @@
 ## Application Does Not Start
 
 Possible causes:
-223
 - Missing .NET Runtime
 - Corrupted installation
 - Antivirus software blocking the application
