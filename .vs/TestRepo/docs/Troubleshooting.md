@@ -3,7 +3,7 @@
 ## Application Does Not Start
 
 Possible causes:
-- Hello
+- Hello Latest
 - Missing .NET Runtime
 - Corrupted installation
 - Antivirus software blocking the application
