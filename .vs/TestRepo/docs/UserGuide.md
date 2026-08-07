@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-The dashboard provides quick access to:
+The dashboard provides quick access to the:
 
 - Projects
 - Reports
