@@ -35,7 +35,7 @@ Before installing, make sure your computer meets the following requirements:
 After installation, enter:
 
 - Email Address
-- Password
+- Password - We have to set the first password as Admin@123
 
 Click **Sign In**.
 
